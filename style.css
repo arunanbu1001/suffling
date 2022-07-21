@@ -1,0 +1,14 @@
+body{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    background-color: rgba(0, 0, 255, 0.295);
+}
+.cir{
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    background-color: rgb(66, 242, 248);
+}
