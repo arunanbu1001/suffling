@@ -12,3 +12,30 @@ body{
     border-radius: 100%;
     background-color: rgb(66, 242, 248);
 }
+.sym{
+    position: absolute;
+    
+}
+.syma{
+    margin: 0px 0px 0px 90px;
+    position: absolute;
+}
+.symb{
+    margin: 90px 0px 0px 190px;
+    position: absolute;
+}
+.symc{
+    margin: 184px 0px 0px 90px;
+    position: absolute;
+}
+.symd{
+    margin: 90px 0px 0px 0px;
+    position: absolute;
+}
+#sf{
+    position: absolute;
+    top: 52%;
+    left: 50%;
+    font-size: 20px;
+    transform: translate(-50%, -50%);
+}
