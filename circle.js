@@ -7,6 +7,7 @@ function load(){
         let ran=Math.floor(Math.random()*y.length);
         a.innerHTML=y[ran];
         y.splice(ran,1);
+        console.log(ran);
        
     })
 }
